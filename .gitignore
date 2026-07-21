@@ -1,0 +1,31 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Secrets and credentials — never commit
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+config/*.local
+
+# Splunk / Sentinel local data (large, regenerated)
+*.csv.gz
+*.tsv
+*.evtx
+splunk-data/
+sample-data/raw/
+
+# Python / build artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs that shouldn't be public
+*.log
