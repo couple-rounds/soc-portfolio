@@ -1,7 +1,7 @@
 # SOC Portfolio — couple rounds
 
-> Hands-on SOC Analyst portfolio built over a 90-day structured programme (July–October 2026).
-> Target role: **SOC Analyst (Tier 1)** in Dubai, UAE.
+> Hands-on SOC Analyst portfolio structured programme (July–October 2026).
+> Target role: **SOC Analyst (Tier 1 & 2)**
 
 This repository is the working portfolio I use to demonstrate security operations tradecraft to recruiters
 and hiring managers. Every project, detection rule, and write-up is something I built and ran myself — not
@@ -99,7 +99,7 @@ If you're a recruiter or hiring manager reviewing this — the projects I'd ask 
 
 - **GitHub:** [couple-rounds](https://github.com/couple-rounds)
 - **LinkedIn:** *(link to be added in Phase 5)*
-- **Based in:** Dubai, UAE — resident visa holder, no sponsorship needed
+- **Where to find me:** Dubai, UAE — happy to chat about a role over coffee or a call
 
 ---
 
